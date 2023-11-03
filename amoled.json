@@ -14,10 +14,13 @@
          "#FFFFFF"
       ],
    "colours": {
-    "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#000000",
-    "PRIMARY_660": "#08080A",
-    "PRIMARY_700": "#08080A",
-    "PRIMARY_800": "#08080A"
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_660": "#08080A",
+    "PRIMARY_DARK_700": "#08080A",
+    "PRIMARY_DARK_800": "#08080A"
    },
+   "unsafe_colors": {
+      "CHAT_GREY": "#000000"
+   }
 }
