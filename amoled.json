@@ -1,0 +1,23 @@
+{
+   "name": "AMOLED",
+   "version": "1.0.0",
+   "description": "yes",
+   "authors": [
+      {
+         "name": "Kief",
+         "id": "757661857891876904"
+      }
+   ],
+   "theme_color_map": {
+      "KEYBOARD": [
+         "#000000",
+         "#FFFFFF"
+      ],
+   "colours": {
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#08080A",
+    "PRIMARY_700": "#08080A",
+    "PRIMARY_800": "#08080A"
+   },
+}
