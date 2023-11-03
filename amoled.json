@@ -81,18 +81,6 @@
             "#000000",
             "#FFFFFF"
         ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "rgba(255, 255, 255, 0.02)",
-            "#FFFFFF"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "rgba(255, 255, 255, 0.02)",
-            "#FFFFFF"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "rgba(255, 255, 255, 0.03)",
-            "#FFFFFF"
-        ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "rgba(255, 255, 255, 0.04)",
             "#FFFFFF"
@@ -127,11 +115,18 @@
         ]
     },
     "colours": {
+        "PRIMARY_DARK": "#000000",
+        "PRIMARY_DARK_100": "#ffffff",
+        "PRIMARY_DARK_200": "#ffffff",
+        "PRIMARY_DARK_300": "#B6B6B6",
+        "PRIMARY_DARK_360": "#C8C8C8",
+        "PRIMARY_DARK_400": "#C8C8C8",
         "PRIMARY_DARK_600": "#000000",
         "PRIMARY_DARK_630": "#000000",
         "PRIMARY_DARK_660": "#08080A",
         "PRIMARY_DARK_700": "#08080A",
-        "PRIMARY_DARK_800": "#08080A"
+        "PRIMARY_DARK_800": "#08080A",
+        "PRIMARY_DARK_900": "#08080A"
     },
     "unsafe_colors": {
         "CHAT_GREY": "#000000"
